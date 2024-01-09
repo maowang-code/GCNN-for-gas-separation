@@ -1,0 +1,5 @@
+torch_verson: 1.10.2
+torch.cuda.version: 11.3
+rdkit_version: 2021.09.4
+torch_geometric_version: 2.0.3
+Python 3.9.10
